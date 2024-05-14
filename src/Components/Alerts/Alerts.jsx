@@ -23,10 +23,12 @@ export default function Alerts() {
   <header className='d-flex justify-content-between align-items-center'>
     <h1 className='font-bold text-uppercase head'>alerts</h1>
     <div class="search-bar">
-            <i class="fa-solid fa-magnifying-glass"></i>
+      <label className='p-0 m-0' htmlFor='search'><i class="fa-solid fa-magnifying-glass"></i></label>
+            
             <input
               type="search"
               name="search"
+              id='search'
               placeholder="Search By..."
               spellcheck="false"
               autocomplete="off"
