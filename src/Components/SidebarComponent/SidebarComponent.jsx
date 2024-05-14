@@ -72,7 +72,7 @@ export default function SidebarComponent() {
         </div>
         
         
-        <div className='sidebar-footer px-3'>
+        <div className='sidebar-footer px-3 mb-4'>
             
                  <div className={isCollabsed? 'd-flex flex-column justify-content-between align-items-center' : 'd-flex justify-content-between align-items-center' }>
                 {isCollabsed? <span style={ { color: sidebarData[0].textColor }}><i className={sidebarData[0].icon}></i></span>  : ""}
