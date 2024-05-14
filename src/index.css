@@ -66,18 +66,24 @@ span,a{
 }
 /* ========================================= SIDEBAR ============================================= */
 .sidebar{
-  
   background-color: #181818 ;
   box-shadow: 10px 4px 21.1px 0px #00000061;
-  left: 0 ;
   z-index: 9;
-  /* transition: width .2s ease-in-out; */
-  height:100vh;
   position: fixed;
+  height:100vh;
   top: 0;
+  left: 0 ;
+  bottom: 0;
   margin-right: 50px;
 }
-
+.logoCollabsed{
+  padding-bottom: 20px;
+  transition: all .3s ease-in-out;
+}
+.logoNotCollabsed{
+  padding-bottom: 3px;
+transition: all .4s ease-in-out;
+}
 .collabsedSidebar{
   width: 50px;
   transition: width .3s ease-in-out;

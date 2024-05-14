@@ -49,6 +49,7 @@ export default function SidebarComponent() {
 
   <div onClick={()=>{setIsCollabsed(!isCollabsed)}} className={isCollabsed? 'collabsedSidebar sidebar d-flex flex-column justify-content-between' : 'notcollabsedSidebar sidebar d-flex flex-column justify-content-between'} >
     
+        <div>
         <div className='logo p-1 pointer pt-3' >
             <img src={logo} alt='logo' className={isCollabsed? 'logoCollabsed w-100' : 'logoNotCollabsed w-100'}/>
         </div>
@@ -68,6 +69,8 @@ export default function SidebarComponent() {
                 })}
             </ul>
         </div>
+        </div>
+        
         
         <div className='sidebar-footer px-3'>
             
