@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactTask/static/css/main.17ad44ba.css",
-    "main.js": "/ReactTask/static/js/main.f456133c.js",
+    "main.css": "/ReactTask/static/css/main.e5ac42c7.css",
+    "main.js": "/ReactTask/static/js/main.07cd833d.js",
     "static/media/fa-solid-900.ttf": "/ReactTask/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/fa-brands-400.ttf": "/ReactTask/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/ReactTask/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.ttf": "/ReactTask/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/fa-v4compatibility.woff2": "/ReactTask/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/ReactTask/index.html",
-    "main.17ad44ba.css.map": "/ReactTask/static/css/main.17ad44ba.css.map",
-    "main.f456133c.js.map": "/ReactTask/static/js/main.f456133c.js.map"
+    "main.e5ac42c7.css.map": "/ReactTask/static/css/main.e5ac42c7.css.map",
+    "main.07cd833d.js.map": "/ReactTask/static/js/main.07cd833d.js.map"
   },
   "entrypoints": [
-    "static/css/main.17ad44ba.css",
-    "static/js/main.f456133c.js"
+    "static/css/main.e5ac42c7.css",
+    "static/js/main.07cd833d.js"
   ]
 }
