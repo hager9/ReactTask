@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactTask/static/css/main.17ad44ba.css",
+    "main.js": "/ReactTask/static/js/main.f456133c.js",
+    "static/media/fa-solid-900.ttf": "/ReactTask/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/ReactTask/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/ReactTask/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/ReactTask/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/ReactTask/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/street suite logo-05.png": "/ReactTask/static/media/street suite logo-05.11e89cf0caba0ffb80ff.png",
+    "static/media/fa-regular-400.woff2": "/ReactTask/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/boy_5244468.png": "/ReactTask/static/media/boy_5244468.a661cec31965458c14fa.png",
+    "static/media/fa-v4compatibility.ttf": "/ReactTask/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ReactTask/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/ReactTask/index.html",
+    "main.17ad44ba.css.map": "/ReactTask/static/css/main.17ad44ba.css.map",
+    "main.f456133c.js.map": "/ReactTask/static/js/main.f456133c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17ad44ba.css",
+    "static/js/main.f456133c.js"
+  ]
+}
